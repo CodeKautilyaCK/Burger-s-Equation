@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# PyTorch / TensorFlow model weights
+*.pt
+*.pth
+*.h5
+
+# Data and outputs
+*.csv
+*.npy
+*.npz
+*.mp4
+*.gif
+*.mat
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS
+.DS_Store
